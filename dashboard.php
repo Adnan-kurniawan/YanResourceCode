@@ -34,9 +34,6 @@
                         </ul>
                     </li>
                     <li>
-                        <a href="testi.php">Feedback</a>
-                    </li>
-                    <li>
                         <a href="gallery.php">Gallery</a>
                     </li>
                     <li class="dropdown">
